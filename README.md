@@ -10,7 +10,7 @@ M.Sc in Mathematics and Computer Science from University College of Science, Osm
 
 💻 Skills
 
-Frontend Technologies: HTML, CSS, JavaScript, Bootstrap
+Frontend Technologies: HTML, CSS, JavaScript, Bootstrap, react.js ,node.js and Tailwindcss
 
 Backend Basics: PHP, MySQL
 
@@ -23,24 +23,6 @@ Frontend Development: I enjoy creating intuitive and responsive interfaces.
 UI/UX Design: I love designing modern layouts that enhance user experience.
 
 Web Animation: Adding life to web pages with animations and transitions.
-
-📚 Recent Projects
-
-Math Department Access - Osmania University
-
-A user-centric website for students and faculty of the Mathematics Department, featuring:
-
-Student and Faculty Dashboards
-
-Notes Sharing
-
-Attendance-record 
-
-Additional-information about college 
-
-Campus-map
-
-Health-care
 
 
 
@@ -59,8 +41,6 @@ I'm always up for learning something new, whether it's tech-related or not.
 📫 Let's Connect
 
 Email: sumiayamohammed494@gmail.com
-
-LinkedIn: linkedin.com/in/sumiaya-fatima-1b2b0b246
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or discuss ideas! 😄
 
