@@ -14,8 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />  
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />  
-  <img width="12 /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/tailwindcss-original.svg" height="40" alt="Node.js" />  
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />  
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />  
   <img width="12" />  
@@ -26,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />  
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />  
-  
 </div>  
 
 ## 📊 GitHub Stats  
@@ -36,7 +35,6 @@
 </div>  
 
 ## 📫 Let's Connect!  
-📧 Email: sumaiyamohammed494@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/sumiaya/  
+📧 Email: sumaiyamohammed494@gmail.com  
+💼 LinkedIn: [Sumaiya's LinkedIn](https://www.linkedin.com/in/sumiaya/)  
 🌐 Portfolio: [Your Portfolio](https://your-portfolio-link.com)  
-
