@@ -1,50 +1,37 @@
-Hi there! 👋 I'm Sumaiya
+<p align="left">Hii, This is Sumaiya</p>
 
-🌟 About Me
+###
 
-I am a passionate Frontend Developer with a keen interest in creating visually appealing and user-friendly web applications. My journey in web development started with an enthusiasm for blending creativity with technology, and now I'm building projects that reflect my growth and dedication.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-🎓 Education
+###
 
-M.Sc in Mathematics and Computer Science from University College of Science, Osmania University 
+<img src="https://raw.githubusercontent.com/Sumaiya-77/Sumaiya-77/output/snake.svg" alt="Snake animation" />
 
-💻 Skills
-
-Frontend Technologies: HTML, CSS, JavaScript, Bootstrap, react.js ,node.js and Tailwindcss
-
-Backend Basics: PHP, MySQL
-
-Design Tools: Figma
-
-🚀 My Interests
-
-Frontend Development: I enjoy creating intuitive and responsive interfaces.
-
-UI/UX Design: I love designing modern layouts that enhance user experience.
-
-Web Animation: Adding life to web pages with animations and transitions.
-
-
-
-Water Footprint Calculator
-
-An innovative tool to measure and reduce water consumption, built using:
-
-HTML, CSS, JavaScript, PHP, and MySQL
-
-🌈 Fun Facts
-
-I enjoy traveling and exploring new places.
-
-I'm always up for learning something new, whether it's tech-related or not.
-
-📫 Let's Connect
-
-Email: sumiayamohammed494@gmail.com
-
-Feel free to check out my repositories and reach out if you'd like to collaborate or discuss ideas! 😄
-
-<!---
-Sumaiya-77/Sumaiya-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
