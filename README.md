@@ -25,11 +25,8 @@
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />  
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />  
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="filter: invert(1);" />  
-  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />  
+  
 </div>  
 
 ## 📊 GitHub Stats  
@@ -44,7 +41,7 @@
 </p>  
 
 ## 📫 Let's Connect!  
-📧 Email: [sumaiyamohammed494@gmail.com](mailto:sumaiyamohammed494@gmail.com)  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+📧 Email: sumaiyamohammed494@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/sumiaya/  
 🌐 Portfolio: [Your Portfolio](https://your-portfolio-link.com)  
 
