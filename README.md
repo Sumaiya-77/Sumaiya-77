@@ -37,4 +37,4 @@
 ## 📫 Let's Connect!  
 📧 Email: sumaiyamohammed494@gmail.com  
 💼 LinkedIn: [Sumaiya's LinkedIn](https://www.linkedin.com/in/sumiaya/)  
-🌐 Portfolio: [Your Portfolio](https://your-portfolio-link.com)  
+🌐 Portfolio: [Your Portfolio](https://sumaiyaportfolio.netlify.app/)  
